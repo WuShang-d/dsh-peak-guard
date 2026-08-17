@@ -1,0 +1,4 @@
+# dsh-peak-guard bundle patch: mount the Host-side Cordis plugin.
+- insert:
+    - id: peak-guard
+      name: dsh-peak-guard
