@@ -1,5 +1,7 @@
 # dsh-peak-guard
 
+> **Languages:** English · [中文](README.zh-CN.md)
+
 Unofficial community plugin for DeepSeek Harness / DSH.
 
 `dsh-peak-guard` protects DeepSeek API calls during peak pricing windows. When a user starts a new DSH turn on a DeepSeek provider during a configured peak period, the plugin stops before the model request is sent and asks for confirmation.
